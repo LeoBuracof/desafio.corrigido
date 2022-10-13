@@ -4,7 +4,7 @@
 
   
   <div align="left">
-   Segundo desafio de correção de bugs disponibilizado pela Rocketseat. Nesse desafio, foi disponibilizado um código com o projeto desenvolvido durante as aulas da Fase 02.
+   Primeiro desafio de correção de bugs disponibilizado pela Rocketseat. Nesse desafio, foi disponibilizado um código com o projeto desenvolvido durante as aulas da Fase 01.
   <br/>
   O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou. 
  
